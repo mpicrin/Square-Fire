@@ -17,4 +17,6 @@ Includes scoring system, lives, power-ups, and player ranking.
 - 💥 Power-ups temporales (auto-disparo, balas grandes) / Temporary power-ups (auto-fire, big bullets).  
 - 👾 Jefe final con barra de vida / Final boss with health bar (no implementado).  
 - ❤️ Sistema de vidas y daño / Lives and damage system.  
-- 🏆 Ranking guardado en archivo `Ranking.txt` / Ranking saved in `Ranking.txt`.  
+- 🏆 Ranking guardado en archivo `Ranking.txt` / Ranking saved in `Ranking.txt`.
+
+#Instalar pygame
