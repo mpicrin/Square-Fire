@@ -15,6 +15,6 @@ Includes scoring system, lives, power-ups, and player ranking.
 - ☄️ Meteoritos con velocidad progresiva / Meteors with increasing speed.  
 - 🔫 Balas normales y especiales / Normal and special bullets.  
 - 💥 Power-ups temporales (auto-disparo, balas grandes) / Temporary power-ups (auto-fire, big bullets).  
-- 👾 Jefe final con barra de vida / Final boss with health bar.  
+- 👾 Jefe final con barra de vida / Final boss with health bar (no implementado).  
 - ❤️ Sistema de vidas y daño / Lives and damage system.  
 - 🏆 Ranking guardado en archivo `Ranking.txt` / Ranking saved in `Ranking.txt`.  
