@@ -19,4 +19,4 @@ Includes scoring system, lives, power-ups, and player ranking.
 - ❤️ Sistema de vidas y daño / Lives and damage system.  
 - 🏆 Ranking guardado en archivo `Ranking.txt` / Ranking saved in `Ranking.txt`.
 
-#Instalar pygame
+# Instalar pygame
